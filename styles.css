@@ -1,0 +1,61 @@
+body {
+margin: 0;
+padding: 0;
+background: black;
+color: white;
+padding: 20px; 160px;
+height: 100vh;
+^}
+
+
+.logo {
+width: 80px;
+}
+
+h4{
+    font-size: 80px;
+}
+
+h1{
+    font-size: 80px;
+}
+p{
+
+    font-size: 16px;
+    margin-bottom: 40px;
+}
+
+a{
+
+    background: #a3be52;
+    padding: 10px; 20px;
+    border-radius: 20px;
+    font-size: 16px;
+    color: black;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+a:hover{
+
+    opacity: 0.7;
+
+}
+
+    .tenis1{
+
+        width: 800px;
+        transform: rotate(-25deg);
+    }
+
+.caixa principal{
+
+display: flex;
+justify-content: space-between;
+
+
+}
+
+
+
+
